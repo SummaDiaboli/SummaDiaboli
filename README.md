@@ -6,10 +6,10 @@ Currently focused on frontend engineering and cybersecurity research in Zero Tru
 
 ## Tech
 
-**Languages** — TypeScript, JavaScript, Python, Go, Dart  
+**Languages** — TypeScript, JavaScript, Python, Go  
 **Frontend** — React, Next.js, Astro, TailwindCSS  
 **Backend** — Node.js, Express.js, NestJS, PostgreSQL  
-**Mobile** — Flutter, React Native  
+**Mobile** — React Native  
 
 ## Links
 
