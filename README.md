@@ -1,15 +1,15 @@
 # Salim Hussaini
 
-Senior Fullstack Engineer building high-performance web applications across e-commerce, civic tech, and AI/ML domains.
+Fullstack Engineer building high-performance web applications across e-commerce, civic tech, and AI/ML domains.
 
 Currently focused on frontend engineering and cybersecurity research in Zero Trust microservice architecture.
 
 ## Tech
 
 **Languages** — TypeScript, JavaScript, Python, Go  
-**Frontend** — React, Next.js, Astro, TailwindCSS  
+**Frontend** — React, Next.js, Astro, Svelte, TailwindCSS  
 **Backend** — Node.js, Express.js, NestJS, PostgreSQL  
-**Mobile** — React Native  
+**Mobile** — React Native, Flutter  
 
 ## Links
 
